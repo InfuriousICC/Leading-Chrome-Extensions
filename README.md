@@ -24,15 +24,15 @@ solemnly made for the purpose for helping beginners and creating cyber awareness
 
 [1. What are Google Chrome Extensions](#what-are-google-chrome-extensions )
 
-[2. How to install a extension in Chrome](#What-to-install-a-extension-in-chrome )
+[2. How to install a extension in Chrome](#how-to-install-a-extension-in-chrome )
 
-[3. Most Useful Google Chrome Extensions](#most-useful-google-chrome-extensions )
+[3. Most Useful Google Chrome Extensions](#collection-of-most-useful-google-chrome-extensions )
 
 [4. Special Collectoin for CyberSecurity Learners](#cybersecurity-learners-special )
 
 [5. Points to keep in mind](#points-to-keep-in-mind)
 
-[6. FAQs](#Faqs )
+[6. FAQs](#faq )
 
 
 ## What are Google Chrome Extensions?
@@ -95,6 +95,12 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 | [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  | | Used to run so-called userscripts to add or remove new functionality and content, or automate actions |
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)  | | Used to find out the technologies used on websites you visit at glance |
 
+
+## Points to keep in mind -
+- Whenever adding a new extension, always check the number of users using that extension, reviews and about its developer. As there are many extensions in the chrome web store which are harmful and misuses your data.
+- Don’t add useless extension
+- Don’t add any extensions which you don’t need
+- Don't add any extension if you don't know what that extension does and how to use it
 
 ## FAQ
 
