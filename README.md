@@ -55,7 +55,7 @@ It is a program that can be installed on chrome browser which can modify your ex
 https://www.youtube.com/watch?v=ekXS3y_s8k8
 
 
-## Collection of Best Google Chrome Extensions
+## Collection of Most Useful Google Chrome Extensions
 
 
 | Name |      | Description                |
