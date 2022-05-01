@@ -22,7 +22,7 @@ solemnly made for the purpose for helping beginners and creating cyber awareness
 
 ## Documentation
 
-[1. What are Google Chrome Extensions](#What-are-google-chrome-extension )
+[1. What are Google Chrome Extensions](#what-are-google-chrome-extensions )
 
 [2. How to install a extension in Chrome](#What-to-install-a-extension-in-chrome )
 
