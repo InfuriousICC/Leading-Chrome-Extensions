@@ -30,7 +30,7 @@ solemnly made for the purpose for helping beginners and creating cyber awareness
 
 [4. Special Collectoin for CyberSecurity Learners](#cybersecurity-learners-special )
 
-[5. Points to keep in mind](#points-to-keep-in-mind)
+[5. Points to keep in mind](#points-to-keep-in-mind--)
 
 [6. FAQs](#faq )
 
@@ -120,6 +120,11 @@ https://chrome.google.com/webstore/category/extensions
 #### What if any extension mentioned in the above list stopped working?
 
 You can inform us on any of our social media handles if there exist any issues with this project, we will surely provide you a solution.
+
+#### Can we use google chrome extensions in android?
+
+Yes, there are many android browsers which provides a feature to use chrome extenion in android like kiwi and yandex browser.
+The process of installation is almost same.
 
 ## Contributions
 
