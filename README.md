@@ -82,6 +82,9 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 | [Homey](https://chrome.google.com/webstore/detail/homey-productive-and-cozy/lllnjdmfnfjifcfpppjmcnanpokikcpl)  | | Turn your new tab into a productive workspace, organize bookmarks, motivates with daily live wallpapers and inspirational quotes |
 | [Just Read](https://chrome.google.com/webstore/detail/just-read/dgmanlpmmkibanfdgjocnabmcaclkmod)  | | With just a one click, you can remove distractions like the page syling's, ads, popups and comments  |
 | [Wordtune - AI-powered Writing Companion](https://chrome.google.com/webstore/detail/wordtune-ai-powered-writi/nllcnknpjnininklegdoijpljgdjkijc)  | | An AI-powered writing companion that understands what you’re trying to say, and suggests ways to make your writing more clear, compelling and authentic. |
+| [Dashlane - Password Manager](https://chrome.google.com/webstore/detail/dashlane-password-manager/fdjamakpfbbddfjaooikfcpapjohcfmg?hl=en-US)  | | Save all your passwords, fill forms fast, and keep your data accessible and safe |
+
+
 
 
 ## CyberSecurity Learners Special
