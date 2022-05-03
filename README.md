@@ -6,6 +6,8 @@ A collection of most useful google chrome extensions for upgrading your chrome b
 
 ## Authors
 
+- [@InfuriousICC](https://github.com/InfuriousICC)
+
 - [@dheerajydv19](https://github.com/dheerajydv19)
 
 
