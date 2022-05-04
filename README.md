@@ -137,8 +137,15 @@ Contributions are always welcome!
 
 You can contact us any time on any of our social media platforms for any kind of suggestions and Contributions.
 
+Official Mail - infurious.icc@gmail.com
 
+GitHub - https://github.com/InfuriousICC
 
+Twitter - https://twitter.com/infurious_icc
+
+Telegram - https://t.me/infurious_icc
+
+Instagram - https://instagram.com/infurious_icc
 
 
 Developed with ❤️ in India 🇮🇳 
