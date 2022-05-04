@@ -101,10 +101,9 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)  | | Used to find out the technologies used on websites you visit at glance |
 
 
-## Points to keep in mind -
-- Whenever adding a new extension, always check the number of users using that extension, reviews and about its developer. As there are many extensions in the chrome web store which are harmful and misuses your data.
-- Don’t add useless extension
-- Don’t add any extensions which you don’t need
+## Few Points to remember -
+- Whenever adding a new extension, always check the number of users using that extension, reviews and about the developer. As there are many extensions in the chrome web store which can be harmful and misuses your data.
+- Don’t add any unusable extension
 - Don't add any extension if you don't know what that extension does and how to use it
 
 ## FAQ
