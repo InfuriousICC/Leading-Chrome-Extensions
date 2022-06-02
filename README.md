@@ -46,7 +46,7 @@ It is a program that can be installed on chrome browser which can modify your ex
 1.     Open chrome web store website using the given link 
        https://chrome.google.com/webstore/category/extensions
     
-                                Or
+       Or
                                 
        If you know the name/ link of the chrome extension, proceed to 3 directly.
 2.     Find the extension which you want to install using the search box or manually.
@@ -91,6 +91,7 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 
 
 ## CyberSecurity Learners Special
+
 | Name |      | Description                |
 | :-------- | :------- | :------------------------- |
 | [HTTPS EVERYWHERE](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)  | | Automatically switches thousands of sites from insecure "http" to secure "https" |
