@@ -148,13 +148,13 @@ You can contact us any time on any of our social media platforms for any kind of
 
 Official Mail - infurious.icc@gmail.com
 
-GitHub - https://github.com/InfuriousICC
+GitHub - [https://github.com/InfuriousICC](https://github.com/InfuriousICC)
 
-Twitter - https://twitter.com/infurious_icc
+Twitter - [https://twitter.com/infurious_icc](https://twitter.com/infurious_icc)
 
-Telegram - https://t.me/infurious_icc
+Telegram - [https://t.me/infurious_icc](https://t.me/infurious_icc)
 
-Instagram - https://instagram.com/infurious_icc
+Instagram - [https://instagram.com/infurious_icc](https://instagram.com/infurious_icc)
 
 
 Developed with ❤️ in India 🇮🇳 
