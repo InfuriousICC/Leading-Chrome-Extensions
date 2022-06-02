@@ -32,7 +32,7 @@ solemnly made for the purpose for helping beginners and creating cyber awareness
 
 [4. Special Collectoin for CyberSecurity Learners](#cybersecurity-learners-special )
 
-[5. Points to keep in mind](#points-to-keep-in-mind--)
+[5. Points to keep in mind](#few-points-to-remember--)
 
 [6. FAQs](#faq )
 
