@@ -47,7 +47,8 @@ It is a program that can be installed on chrome browser which can modify your ex
        https://chrome.google.com/webstore/category/extensions
     
                                 Or
-        If you know the name/ link of the chrome extension, proceed to 3 directly.
+                                
+       If you know the name/ link of the chrome extension, proceed to 3 directly.
 2.     Find the extension which you want to install using the search box or manually.
 3.     Click on “Add to chrome” , once the popup shows click on “add extension” and download will start automatically in a few seconds.
 4.     Click on the extension icon on the top right corner  above  google account profile icon and check if the download successfully
