@@ -93,13 +93,21 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 ## CyberSecurity Learners Special
 
 | Name |      | Description                |
+
 | :-------- | :------- | :------------------------- |
+
 | [HTTPS EVERYWHERE](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)  | | Automatically switches thousands of sites from insecure "http" to secure "https" |
+
 | [McAfee WebAdvisor](https://chrome.google.com/webstore/detail/mcafee%C2%AE-webadvisor/fheoggkfdfchfphceeifdbepaooicaho)  | | Helps the users easily identify safe sites and warns the users whenever they visits a harmful site and also scans the downloading file for malwares |
+
 | [Url Render](https://chrome.google.com/webstore/detail/url-render/flhclpkhoiajoikkabbfbinnjapaflog)  | | Browse websites directly from your favorite search engines result page without opening open the link |
+
 | [Buster Captcha Solver for Humans](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl)  | | Helps users to solve difficult captchas automatically by completing reCAPTCHA |
+
 | [Free VPN for Chrome](https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno)  | | Fast, ultra secure, and easy to use VPN service to protect your privacy online |
+
 | [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  | | Used to run so-called userscripts to add or remove new functionality and content, or automate actions |
+
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)  | | Used to find out the technologies used on websites you visit at glance |
 
 
