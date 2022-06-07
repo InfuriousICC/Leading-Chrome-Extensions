@@ -101,7 +101,8 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 | [Free VPN for Chrome](https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno)  | | Fast, ultra secure, and easy to use VPN service to protect your privacy online |
 | [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  | | Used to run so-called userscripts to add or remove new functionality and content, or automate actions |
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)  | | Used to find out the technologies used on websites you visit at glance |
-
+|[PhotOSINT](https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd/related)||Used to find meta data of a image and doing reverse image search from google,yahoo,yandex and more in a single click.|
+|[Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon/related)| |Helps in copying text from videos, images, PDFs, anything... ever!|
 
 ## Few Points to remember -
 - Whenever adding a new extension, always check the number of users using that extension, reviews and about the developer. As there are many extensions in the chrome web store which can be harmful and misuses your data.
