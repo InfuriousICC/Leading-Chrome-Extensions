@@ -135,6 +135,9 @@ You can inform us on any of our social media handles if there exist any issues w
 Yes, there are many android browsers which provides a feature to use chrome extenion in android like kiwi and yandex browser.
 The process of installation is almost same.
 
+#### Can Chrome extensions steal your information ?
+There are many extensions that can view your online activity and some extensions also capture your data even passwords too. In otder to stay safe from this, use extensions developed by trusted developers only. Also, Before adding any extension, must read its overview.
+
 ## Contributions
 
 Contributions are always welcome!
