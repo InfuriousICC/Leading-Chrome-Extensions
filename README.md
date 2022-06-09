@@ -103,6 +103,8 @@ https://www.youtube.com/watch?v=ekXS3y_s8k8
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)  | | Used to find out the technologies used on websites you visit at glance |
 |[PhotOSINT](https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd/related)||Used to find meta data of a image and doing reverse image search from google,yahoo,yandex and more in a single click.|
 |[Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon/related)| |Helps in copying text from videos, images, PDFs, anything... ever!|
+|[SingleFile](https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle?hl=en)||helps you to save a complete page (with CSS, images, fonts, frames, etc.) as a single HTML file.|
+
 
 ## Few Points to remember -
 - Whenever adding a new extension, always check the number of users using that extension, reviews and about the developer. As there are many extensions in the chrome web store which can be harmful and misuses your data.
